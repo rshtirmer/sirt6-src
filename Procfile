@@ -1,2 +1,2 @@
-gunicorn project_slug.wsgi
+gunicorn sirt6.wsgi
 
