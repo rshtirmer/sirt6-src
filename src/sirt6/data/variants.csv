@@ -1,0 +1,21 @@
+mRNA variant,# of Introns,# of Exons,5' UTR,3' UTR,pre-mRNA length,mRNA length,Protein length
+A,8,7,67 bp,508 bp,8498 bp,1643 bp,355 aa
+B,7,6,,508 bp,8491 bp,1555 bp,348 aa
+C,8,7,,,7508 bp,916 bp,305 aa
+D,7,6,7 bp,11 bp,7941 bp,903 bp,294 aa
+E,7,6,114 bp,507 bp,8456 bp,1473 bp,283 aa
+F,6,5,93 bp,507 bp,8435 bp,1371 bp,256 aa
+G,7,6,6 bp,39 bp,7569 bp,795 bp,249 aa
+H,8,7,,757 bp,8139 bp,1507 bp,249 aa
+I,8,7,,,7633 bp,738 bp,245 aa
+J,6,5,,,6962 bp,716 bp,237 aa
+K,6,5,149 bp,,5760 bp,752 bp,201 aa
+L,7,6,7 bp,789 bp,8438 bp,1360 bp,187 aa
+M,6,5,,155 bp,7673 bp,716 bp,186 aa
+N,7,6,23 bp,701 bp,8035 bp,1261 bp,178 aa
+O,6,5,115 bp,789 bp,7863 bp,1408 bp,167 aa
+P,6,5,81 bp,,7703 bp,537 bp,152 aa
+Q,2,1,7 bp,150 bp,2138 bp,574 bp,140 aa
+R,5,4,28 bp,879 bp,7690 bp,1261 bp,117 aa
+S,5,4,112 bp,1137 bp,7944 bp,1570 bp,106 aa
+T,3,2,805 bp,47 bp,4279 bp,1173 bp,106 aa

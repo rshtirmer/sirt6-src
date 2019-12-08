@@ -1,0 +1,69 @@
+Gene Component,Location,Isoform(s)
+Gene,1 → 8498,N/A
+GC Box,-588 (p < 0.001),N/A
+CCAT Box,-523 (p < 0.01),N/A
+TATA Box,-324 (p < 0.01),N/A
+Initiator,1,N/A
+TSS,1,N/A
+Alternative Exon 1,1 → 133,a
+Alternative Exon 1,8 → 133,b
+Alternative Exon 1,40 → 133,r
+Alternative Exon 1,41 → 133,o
+Alternative Exon 1,42 → 133,e
+Alternative Exon 1,44 → 133,s
+Alternative Exon 1,45 → 133,n
+Alternative Exon 1,61 → 133,"d,l,q"
+Alternative Exon 1,62 → 133,g
+Alternative Exon 1,63 → 133,f
+Alternative Exon 1,66 → 133,i
+Alternative Exon 1,74 → 133,"j,m"
+Alternative Exon 1,81 → 133,p
+Alternative Intron 1,134 → 1697,"a,b,d,g,i,j,l,m,n,q,r"
+Alternative Intron 1,134 → 3320,"e,f,o,s"
+Alternative Intron 1,134 → 5468,p
+Alternative Exon 2,289 → 396,c
+Alternative Exon 2,328 → 396,h
+Alternative Exon 2,397 → 1697,"c,h"
+Alternative Exon 2,1698 → 1825,"a,b,c,d,g,h,i,j,l,m,n,r"
+Alternative Exon 2,1698 → 2198,q
+Alternative Exon 2,1757 → 2027,k
+Alternative Intron 2,1826 → 3320,"a,b,c,g,h,i,j,n"
+Alternative Intron 2,1826 → 5468,"d,l,m,r"
+Alternative Intron 2,2028 → 3320,k
+Alternative Exon 3,2538 → 3503,t
+Alternative Exon 3,3321 → 3503,"a,b,c,e,f,g,h,i,j,k,n,o,s"
+Alternative Intron 3,3504 → 5468,"a,b,c,e,f,g,h,i,j,k,n,o,s,t"
+Exon 4,5469 → 5528,"a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,r,s,t"
+Intron 4,5529 → 6669,"a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,r,s,t"
+Alternative Exon 5,6670 → 6765,"a,b,c,d,e,f,g,h,i,j,k,l,m,o,p"
+Alternative Exon 5,6670 → 6816,t
+Alternative Exon 5,6670 → 6927,n
+Alternative Exon 5,6670 → 7579,"r,s"
+Alternative Intron 5,6766 → 6846,"a,c,d,e,g,h,i,j,k,l,m,o,p"
+Alternative Intron 5,6766 → 7455,"b,f"
+Alternative Exon 6,6847 → 6927,"a,c,d,e,g,h,i,k,l,m,p"
+Alternative Exon 6,6847 → 7035,j
+Alternative Exon 6,6847 → 7579,o
+Alternative Intron 6,6928 → 7455,"a,c,d,e,g,k,m,n,p"
+Alternative Intron 6,6928 → 7495,"h,i,l"
+Alternative Exon 7,7456 → 7516,k
+Alternative Exon 7,7456 → 7579,"a,b,c,d,e,f,n,p"
+Alternative Exon 7,7456 → 7630,g
+Alternative Exon 7,7456 → 7746,m
+Alternative Exon 7,7496 → 7579,"h,i,l"
+Alternative Intron 7,7580 → 7660,"a,b,c,d,e,f,h,i,l,n,o,p,r,s"
+Alternative Exon 8,7661 → 7698,i
+Alternative Exon 8,7661 → 7729,r
+Alternative Exon 8,7661 → 7783,p
+Alternative Exon 8,7661 → 7796,c
+Alternative Exon 8,7661 → 7903,o
+Alternative Exon 8,7661 → 7987,s
+Alternative Exon 8,7661 → 8001,d
+Alternative Exon 8,7661 → 8079,n
+Alternative Exon 8,7661 → 8466,h
+Alternative Exon 8,7661 → 8497,"e,f"
+Alternative Exon 8,7661 → 8498,"a,b,l"
+Alternative Poly A Signal,7711 → 7716,r
+Alternative Poly A Signal,8469 → 8474,"a, b, e, f, l"
+Alternative Poly A Site,7729,r
+Alternative Poly A Site,8497,"a, b, e, f, l"

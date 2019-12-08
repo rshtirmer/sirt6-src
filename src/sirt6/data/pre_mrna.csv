@@ -1,0 +1,27 @@
+Gene Component,Location (Isoform A),Location (Isoform L)
+TSS,1,1
+5' UTR,1 → 67,1 → 7
+CDS START,68,8
+Exon 1,1 → 133,1 → 73
+Intron 1,134 → 1697,74 → 1637
+Exon 2,1698 → 1825,1638 → 1765
+Sir2 Domain,1784 → 7503,1724 → 5411
+Intron 2,1826 → 3320,1766 → 5408
+Exon 3,3321 → 3503,5409 → 5468
+Intron 3,3504 → 5468,5469 → 6609
+Exon 4,5469 → 5528,6610 → 6705
+Intron 4,5529 → 6669,6706 → 6786
+Exon 5,6670 → 6765,6787 → 6867
+Intron 5,6766 → 6846,6868 → 7435
+Exon 6,6847 → 6927,7436 → 7519
+Intron 6,6928 → 7455,7520 → 7600
+Exon 7,7456 → 7579,7601 → 8438
+Potential Nuclear Localization Signal 1,7516 → 7539,
+Intron 7,7580 → 7660,
+Exon 8,7661 → 8498,
+CDS END,7990,7649
+Potential Nuclear Localization Signal 2,7913 → 7936,
+Potential Nuclear Localization Signal 3,7955 → 7978,
+3' UTR,7991 → 8498,7650 → 8439
+Poly A Signal,8469 → 8474,8414 → 8474
+Poly A Site,8497,8437
