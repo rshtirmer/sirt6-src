@@ -42,7 +42,7 @@ Alzheimer's disease is another age related disorder associated with SIRT6.  Whil
 ___
 While SIRT6 does not have a direct relation with any specific cancer, it has been shown that SIRT6 deficiency leads to increased tumor growth.  As discussed in Protein Function, SIRT6 has a role in the process tumorigenesis and overall suppression of tumors.  More specifically, it is shown to be a tumor suppressor involved in the regulation of aerobic glycolysis in cancer cells.  While loss of SIRT6 led to tumor formation without activation of known oncogenes, transformed SIRT6-deficient cells showed increased tumor growth and glycolysis. Research has also shown that SIRT6 deletion leads to more aggressive, large, and abundant tumor growth.[<sup>21</sup>](/references#21)  SIRT6 is not known to be associated with any hereditary cancers.  While there is no cure, there are many treatments.  This includes surgery, radiation therapy, chemotherapy, immunotherapy, targeted therapy, hormone therapy, stem cell transplants, and precision medication.[<sup>29</sup>](/references#29)
 
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0092867412013517-fx1.jpg)
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0092867412013517-fx1.jpg)   
 Image Source: [https://www.sciencedirect.com/science/article/pii/S0092867412013517](https://www.sciencedirect.com/science/article/pii/S0092867412013517)
 
 While previously shown under Protein Function, this diagram gives a good representation of SIRT6 and its influence on tumor growth.[<sup>21</sup>](/references#21)
