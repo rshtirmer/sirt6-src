@@ -5,7 +5,8 @@
 
 # Your App's title. The value of this parameter will be propagated into
 # `app.title`
-TITLE = "Stress Response Protein Sirtuin 6 (SIRT6)"
+TITLE = "SIRT6"
+TITLE2 = "### A Study of Stress Response Protein Sirtuin 6 (SIRT6) in *Homo Sapiens*"
 
 # The value of this parameter will be propagated into both
 # `app.scripts.config.serve_locally` and `app.css.config.serve_locally`

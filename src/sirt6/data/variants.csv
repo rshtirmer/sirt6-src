@@ -1,4 +1,4 @@
-mRNA variant,# of Introns,# of Exons,5' UTR,3' UTR,pre-mRNA length,mRNA length,Protein length
+mRNA variant,# of Exons,# of Introns,5' UTR,3' UTR,pre-mRNA length,mRNA length,Protein length
 A,8,7,67 bp,508 bp,8498 bp,1643 bp,355 aa
 B,7,6,,508 bp,8491 bp,1555 bp,348 aa
 C,8,7,,,7508 bp,916 bp,305 aa

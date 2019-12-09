@@ -18,8 +18,9 @@ def make_brand(**kwargs):
         children=dcc.Link(
             href=get_url(""),
             children=[
-                html.H1([fa("far fa-chart-bar"), server.config["TITLE"]]),
-                html.H2("Daniel Lemchak & Ryan Shtirmer")
+                dcc.Markdown(server.config["TITLE2"]),
+                html.H4("Daniel Lemchak & Ryan Shtirmer"),
+                html.H4("Published online December 8th, 2019")
             ]
         ),
         **kwargs,
