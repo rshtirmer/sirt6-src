@@ -13,7 +13,7 @@ markdown2 = markdown = dcc.Markdown(
     dangerously_allow_html=True,
         children=[
 '''
-The protein shown above represents the SIRT6 protein isoform 1 structure.  This protein consists of a 355 amino acid structure, containing 13 alpha helices with 87 residues and 14 beta strands with 60 residues.  It has an active site at position 133 with four zinc metal binding sites at 141, 144, 166, and 177.  It also has a NAD binding site at position 258.[<sup>30</sup>](/references#30)
+The protein shown to the left represents the SIRT6 protein isoform 1 structure.  This protein consists of a 355 amino acid structure, containing 13 alpha helices with 87 residues and 14 beta strands with 60 residues.  It has an active site at position 133 with four zinc metal binding sites at 141, 144, 166, and 177.  It also has a NAD binding site at position 258.[<sup>30</sup>](/references#30)
 
 SIRT6 protein is shown to have a Quaternary structure with association to the RELA protein.[<sup>31</sup>](/references#31) While another research article by Kaidi et al. (2010) showed potential relation to RBBP8 associated with its quaternary structure, this information was retracted due to falsified data and will not be discussed.[<sup>30</sup>](/references#30) [<sup>18</sup>](/references#18)
 ''']
@@ -54,11 +54,13 @@ jumbotron = dbc.Jumbotron(
                         markdown2
                     )
                 ]),
+                html.A("Image Source: https://www.ncbi.nlm.nih.gov/Structure/pdb/5X16", href="https://www.ncbi.nlm.nih.gov/Structure/pdb/5X16"),
                 markdown3,
                 html.Hr(),
                 markdown4,
                 html.Img(src="https://i.imgur.com/9WWLj7s.png",
-                        width="50%")
+                        width="50%"),
+                html.A("Image Source: https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940", href="https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940")
 
             ],
             fluid=False,
