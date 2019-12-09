@@ -54,7 +54,7 @@ ___
 ## Glycolysis
 ___
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0092867409016274-fx1.jpg)   
-Image Source: [https://www.sciencedirect.com/science/article/pii/S0092867409016274](https://www.sciencedirect.com/science/article/pii/S0092867409016274)
+\nImage Source: [https://www.sciencedirect.com/science/article/pii/S0092867409016274](https://www.sciencedirect.com/science/article/pii/S0092867409016274)
 
 As previously stated, SIRT6 functions as a histone H3K9 deacetylase.  This controls the expression of many glycolytic genes. It is noted that SIRT6 appears to function as a corepressor of the transcription factor Hif1α.  This transcription factor is a very important regulator of the nutrient stress responses.  When there is lower amounts of SIRT6, Hif1α activity is increased.  This leads to higher levels of glucose uptake with up-regulation of glycolysis and lower mitochondrial respiration. Studies have also shown that lack of SIRT6 led to an increase in serum lactate, further supporting its role in glucose uptake regulation and a glycolytic switch.[<sup>34</sup>](/references#34)
 
