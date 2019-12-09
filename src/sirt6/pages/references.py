@@ -119,6 +119,9 @@ links = [
 ''',
 '''
 36. “CDD Conserved Protein Domain Family: SIR2.” National Center for Biotechnology Information, U.S. National Library of Medicine, [http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940](http://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940).
+''',
+'''
+37. Shamanna, Raghavendra A., et al. “Recent Advances in Understanding Werner Syndrome.” F1000Research, F1000Research, 28 Sept. 2017, [http://www.f1000research.com/articles/6-1779](http://www.f1000research.com/articles/6-1779).
 '''
 ]
 
