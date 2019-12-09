@@ -31,7 +31,7 @@ While SIRT6 does not have any diseases that are directly associated with, it has
 
 In SIRT6-depleted cells, abnormal telomere structures that resemble defects observed in Werner syndrome, a premature aging disorder, were shown. At the telomeric chromatin, SIRT6 deacetylates H3K9 and is needed for stable association of WRN, the factor that becomes mutated in Werner syndrome.  WRN is associated with telomeres and regulates processing during S-phase.[<sup>13</sup>](/references#13)  Werner syndrome is a hereditary disease due to disturbances in genetic information.  Being that SIRT6 has a large role in DNA repair and many aging processes, it is not much of a surprise that SIRT6-depleted cells would exhibit similar responses as Werner syndrome.  While patients with Werner syndrome are treated for their various symptoms, including heart disease, removal of cataracts, and treatment of cancers, there is no cure available.[<sup>6</sup>](/references#6)
 
-![Image result for werner syndrome pathway](https://f1000researchdata.s3.amazonaws.com/manuscripts/13105/4900a17c-019d-48ca-bdf2-8e1388da751f_figure1.gif)
+![Image result for werner syndrome pathway](https://i.imgur.com/2dReCWj.gif)  
 Image Source: [https://f1000research.com/articles/6-1779](https://f1000research.com/articles/6-1779)
 
 The pathway shown above represents sensor proteins Ku70/Ku80, WRN, MRN, and PARP1 to mediate repair in a DNA double stranded break.  This process is required for genomic stability and to prevent the loss of genetic information.[<sup>37</sup>](/references#37)
