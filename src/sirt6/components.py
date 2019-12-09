@@ -5,7 +5,6 @@ from flask import current_app as server
 
 from .utils import get_url, component
 
-
 def fa(className):
     """A convenience component for adding Font Awesome icons"""
     return html.I(className=className)
@@ -34,10 +33,10 @@ def make_header(**kwargs):
         dark=True,
         sticky=True,
         children=[
-            make_brand(),
-            html.Ul(
-                id=server.config["NAVBAR_CONTAINER_ID"], className="navbar-nav ml-auto"
-            ),
+            dbc.Row([
+                make_brand(),
+                html.Ul(id=server.config["NAVBAR_CONTAINER_ID"], className="navbar-nav ml-auto")
+            ])
         ],
         **kwargs,
     )
