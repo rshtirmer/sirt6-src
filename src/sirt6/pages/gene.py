@@ -61,15 +61,15 @@ In Figure 1, genomic data from Table 1, showcasing all 20 isoforms known, was tr
 
 ### The Promoter
 ___
-The promoter region is a 2000 base pair sequence, upstream from the Transcription Start Site (TSS), found at position 1.[<sup>2</sup>](/references#2) Within the promoter, a GC Box, CCAT Box, and TATA Box were identified using the Eukaryotic Promoter Database (EPD).  A p-cutoff of 0.01 was used for the CCAT Box and TATA Box, as more strict cutoffs did not yield any viable results. A 0.001 cutoff was used to identify the GC Box. The TATA Box value chosen was the one closest to the TSS, however this is not likely to be accurate, as TATA Boxes are generally found within thirty bases upstream of the TSS. A CCAT Box was selected upstream of the TSS, and a GC Box was selected upstream of the CCAT Box. Values taken from EPD where incremented by one as the database outputs are relative to the TSS.[<sup>23</sup>](/references#23)
+The promoter region is a 2000 base pair sequence, upstream from the Transcription Start Site (TSS), found at position 1.[<sup>2</sup>](/references#2) Within the promoter, a GC Box, CCAT Box, and TATA Box were identified using the Eukaryotic Promoter Database (EPD).  A p-cutoff of 0.01 was used for the CCAT Box and TATA Box, as more strict cutoffs did not yield any viable results. A 0.001 cutoff was used to identify the GC Box. The TATA Box value chosen was the one closest to the TSS, however this is not likely to be accurate, as TATA Boxes are generally found within thirty bases upstream of the TSS. A CCAT Box was selected upstream of the TSS, and a GC Box was selected upstream of the CCAT Box. Values taken from EPD were incremented by one as the database outputs are relative to the TSS.[<sup>23</sup>](/references#23)
 
 ### Identified Signals
 ___
-A variety of signals on the SIRT6 gene where identified, including polyadenylation signals and sites, and nuclear localization signals.
+A variety of signals on the SIRT6 gene were identified, including polyadenylation signals and sites, and nuclear localization signals.
 
 The polyadenylation sites for each isoform was found on AceView, and was then offset by the distance to its respective signal in order to identify the location of the polyadenylation signals. The polyadenylation signal sequence for all Isoforms is "AATAAA", except for Isoform R, which has the sequence "CATGAA." Polyadenylation signals are 23 bps away form the site, with the exception of Isoform R, which is 13 bps away from its site.
 
-Additionally, Isoform A had three potential Nuclear Localization Signals. As AceView reports NLS location in amino acids, manual conversions where performed in order to determine the nucleotide positions of each signal. One potential signal was identified on Exon 7 and two on Exon 8.[<sup>2</sup>](/references#2)
+Additionally, Isoform A had three potential Nuclear Localization Signals. As AceView reports NLS location in amino acids, manual conversions were performed in order to determine the nucleotide positions of each signal. One potential signal was identified on Exon 7 and two on Exon 8.[<sup>2</sup>](/references#2)
 
 ### SIR2 Domain
 ___
@@ -77,7 +77,7 @@ A SIR2 family domain was identified in both Isoform A and L.
 * In Isoform A this domain spans amino acids 52 to 221.
 * In Isoform L this domain spans amino acids 52 to 65.
 
-These amino acids where converted to the nucleotide positions that code for them. In Isoform A this conserved region is found between (and including parts of) exons 2 and 7.[<sup>2</sup>](/references#2)
+These amino acids were converted to the nucleotide positions that code for them. In Isoform A this conserved region is found between (and including parts of) exons 2 and 7.[<sup>2</sup>](/references#2)
 
 For more information about functions relating to the SIR2 family, please see [Protein Structure](/protstruct).
 
@@ -499,6 +499,15 @@ rows = html.Div(
         html.Hr(),
         expression_table,
         gene_info,
+        html.Hr(),
+        html.H2('Development Differential Expression'),
+        html.H3('Figure 3: Differential SIRT6 Expression During Fetal Development'),
+        html.Hr(),
+        html.Img(src='https://i.imgur.com/w3Gaz8h.png', width="80%"),
+        html.Hr(),
+        dcc.Markdown(
+            dangerously_allow_html=True,
+                children=['Figure 3 highlights the differences in gene expression of SIRT6 Variant A in a variety of tissues across several intervals during gestation. Measurements were recorded within the adrenal glands, heart, intestine, kidney, lungs, and stomach. Expression of SIRT6 increases through the development of the organisms in all tissues, which is inline with the SIRT6 function of DNA Repair. It is of note that gene expression dropped off from a maximum to a minimum within the heart at 20 weeks. This can not be written off as an outlier either, as multiple measurements within that range were observed[<sup>25</sup>](/references#25)'])
     ]
 )
 
