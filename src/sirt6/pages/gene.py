@@ -504,6 +504,8 @@ rows = html.Div(
         html.H3('Figure 3: Differential SIRT6 Expression During Fetal Development'),
         html.Hr(),
         html.Img(src='https://i.imgur.com/w3Gaz8h.png', width="80%"),
+        html.Br(),
+        html.A('Image Source: https://www.ncbi.nlm.nih.gov/gene/51548', href='https://www.ncbi.nlm.nih.gov/gene/51548'),
         html.Hr(),
         dcc.Markdown(
             dangerously_allow_html=True,

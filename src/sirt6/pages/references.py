@@ -135,7 +135,6 @@ for i,l in enumerate(links):
     link = html.Div([dcc.Markdown(f"{l}")], id=str(i+3))
     formated_links.append(link)
     formated_links.append(html.Br())
-    formated_links.append(html.Br())
 
 jumbotron = dbc.Jumbotron(
     [
