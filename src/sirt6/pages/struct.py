@@ -60,7 +60,8 @@ jumbotron = dbc.Jumbotron(
                 markdown4,
                 html.Img(src="https://i.imgur.com/9WWLj7s.png",
                         width="50%"),
-                html.A("Image Source: https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940", href="https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940")
+                html.Br(),
+                html.A("Image Source: https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940", href="https://www.ncbi.nlm.nih.gov/Structure/cdd/cddsrv.cgi?uid=350940"),
 
             ],
             fluid=False,
