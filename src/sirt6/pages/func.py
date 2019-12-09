@@ -23,7 +23,7 @@ ___
 ___
 Mammalian SIRT6 protein plays an important role in DNA repair and cells overall genomic stability.  It deals with both DNA double stranded breaks as well as base excision repairs. In mammalian cells under oxidative stress, it was shown that SIRT6 is recruited to DNA double strand breaks and starts the repair process.  This is through the use of both non-homologous end joining and homologous recombination. SIRT6 associates with PARP1, starting poly-ADP-ribosylase activity and improving DNA repair while under oxidative stress. SIRT6 is also associated with chromatin. Cells that have low levels of chromatin display higher levels of genomic instability, linked to both aging and tumor suppression in mammals.[<sup>24</sup>](/references#24) [<sup>14</sup>](/references#14)
 
-![Figure thumbnail fx1](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/c82b9faf-484b-4fc7-be6a-3318f709565e/fx1.jpg)
+![Figure thumbnail fx1](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/c82b9faf-484b-4fc7-be6a-3318f709565e/fx1.jpg)  
 Image Source: [https://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00475-9](https://www.cell.com/molecular-cell/fulltext/S1097-2765(13)00475-9)
 
 The above diagram shows SIRT6 as one of the first factors recruited to a double-strand break in a DNA molecule.  SIRT6 then brings SNF2H, a chromatin remodeler, which deacetylates histone H3K56.  This chromatin remodeling at the respective sites of damage help prevent the recruitment of downstream factors, including RPA, BRCA1, and S3BP1.[<sup>24</sup>](/references#24)
@@ -33,7 +33,7 @@ The above diagram shows SIRT6 as one of the first factors recruited to a double-
 ___
 Human SIRT6 is an NAD+ dependent, histone H3 lysine 9 (H3K9) deacetylase that regulates telomeric chromatin. More specifically, SIRT6 deals with end-to-end chromosomal fusion as well as cellular senescence. In SIRT6 depleted cells, telomere structures appear abnormal. Further research has also showed SIRT6 to directly decrease expression of multiple glucose-metabolic genes through the deacetylation of H3K9 at their promoters.[<sup>13</sup>](/references#13)
 
-![Figure thumbnail fx1](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/1f7d3963-d43c-44da-ad76-a10af4419c31/fx1.jpg)
+![Figure thumbnail fx1](https://els-jbs-prod-cdn.literatumonline.com/cms/attachment/1f7d3963-d43c-44da-ad76-a10af4419c31/fx1.jpg)   
 Image Source: [https://www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X](https://www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X)
 
 The diagram above shows SIRT6 as a histone deacetylase that promotes DNA repair.  SIRT6 helps regulate Tau protein stability and phosphorylation by increasing the activation of kinase GSK3α/β.[<sup>10</sup>](/references#10)
@@ -60,7 +60,7 @@ As previously stated, SIRT6 functions as a histone H3K9 deacetylase.  This contr
 
 ## Tumorigenesis
 ___
-![](https://ars.els-cdn.com/content/image/1-s2.0-S0092867412013517-fx1.jpg)
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0092867412013517-fx1.jpg)  
 Image Source: [https://www.sciencedirect.com/science/article/pii/S0092867412013517](https://www.sciencedirect.com/science/article/pii/S0092867412013517)
 
 SIRT6 has been identified as a tumor suppressor, regulating aerobic glycolysis in many cancer cells.  Research suggests that SIRT6 plays a role in the establishment and maintenance of cancer.  This is due to tumor formation without activation of any known oncogenes associated with a loss of SIRT6.  Transformed SIRT6 deficient cells also displayed both increased glycolysis and tumor growth, with studies in vivo showing SIRT6 deletion leads to increased number, size, and aggressiveness of tumors.  It also functions as a regulator of ribosome metabolism and is selectively suppressed in many human cancers, showing its importance in reducing cancer metabolism.[<sup>21</sup>](/references#21)
